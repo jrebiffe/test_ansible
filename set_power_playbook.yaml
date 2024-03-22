@@ -1,0 +1,12 @@
+%YAML 1.1
+---
+- name: Test NETCONF on Huawei RTN
+  hosts: huaweis
+
+  roles:
+
+    - role: power
+      vars:
+        interface: RTL-63-255-1
+        power: -3.5
+...
