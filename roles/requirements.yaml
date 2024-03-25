@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+- name: power
+  src: https://github.com/jrebiffe/test_ansible_roles.git
+  version: main
+...
