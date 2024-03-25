@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+- name: power
+  src: https://github.com/jrebiffe/set_tx_power_role.git
+...
