@@ -7,6 +7,6 @@
 
     - role: power
       vars:
-        interface: RTL-63-255-1
+        interface: CT-13-255-1
         power: -3.5
 ...
