@@ -8,5 +8,5 @@
     - role: power
       vars:
         interface: CT-13-255-1
-        power: 4.2
+        power: 2.7
 ...
